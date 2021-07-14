@@ -77,7 +77,7 @@ nav ul {
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/img/landing-page.jpg");
+    url("img/landing-page.jpg");
   min-height: 90vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -97,7 +97,7 @@ nav ul {
 #locations {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url("/img/new-york-page.png");
+    url("img/new-york-page.png");
   background-position: center;
   background-size: cover;
   display: flex;
@@ -206,7 +206,7 @@ nav ul {
 #contact {
   min-height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.5), transparent),
-    url(/img/contact-mountain.png);
+    url(img/contact-mountain.png);
   background-size: cover;
   background-repeat: no-repeat;
   display: flex;
